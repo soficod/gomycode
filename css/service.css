@@ -1,0 +1,99 @@
+<<<<<<< HEAD
+.programs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.programs h1 {
+  font-size: 3rem;
+  font-weight: 600;
+}
+.programs-container {
+  display: flex;
+  width: 90%;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.item {
+  width: 300px;
+  height: 300px;
+
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px,
+    rgba(17, 17, 26, 0.1) 0px 0px 8px;
+  background-color: antiquewhite;
+}
+.item img {
+  width: 200px;
+  height: 200px;
+  padding-top: 10px;
+  box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px,
+    rgba(17, 17, 26, 0.1) 0px 0px 8px;
+}
+.item button {
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  color: rgb(250, 248, 248);
+  background-color: red;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+=======
+.programs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.programs h1 {
+  font-size: 3rem;
+  font-weight: 600;
+}
+.programs-container {
+  display: flex;
+  width: 90%;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.item {
+  width: 300px;
+  height: 300px;
+
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px,
+    rgba(17, 17, 26, 0.1) 0px 0px 8px;
+  background-color: antiquewhite;
+}
+.item img {
+  width: 200px;
+  height: 200px;
+  padding-top: 10px;
+  box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px,
+    rgba(17, 17, 26, 0.1) 0px 0px 8px;
+}
+.item button {
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  color: rgb(250, 248, 248);
+  background-color: red;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+>>>>>>> 45613224347c0245c60bb7e24715d4dfa4c49c14
